@@ -1,0 +1,28 @@
+name: www.impimarketing.co.uk
+favicon: null
+layout_spectrum: 0.008406108245253563
+typography_spectrum: 0.3593196179717779
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7464280696585774
+  lightness: 0.32656869757920504
+  saturation: 0.5962129302788526
+  rhythmicContrast: 0.5754459968302399
+purpose: []
